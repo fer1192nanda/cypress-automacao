@@ -1,0 +1,7 @@
+# Ignorar arquivos de log
+*.log/
+
+# Ignorar a pasta node_modules (geralmente usada em projetos Node.js)
+node_modules/
+
+package-lock.json
